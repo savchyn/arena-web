@@ -1,4 +1,4 @@
-Arena Web
+Arena Web [![Codacy Badge](https://api.codacy.com/project/badge/Grade/edc0d551f7bd46218be073820d721812)](https://www.codacy.com/app/savchyn/arena-web?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=savchyn/arena-web&amp;utm_campaign=Badge_Grade)
 =========
 
 ## Overview ##
