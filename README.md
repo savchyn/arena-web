@@ -1,6 +1,8 @@
 Arena Web
 =========
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/735d4019b2fd4bb9a216e1a5d37e9d08)](https://app.codacy.com/app/savchyn/arena-web?utm_source=github.com&utm_medium=referral&utm_content=savchyn/arena-web&utm_campaign=Badge_Grade_Dashboard)
+
 ## Overview ##
 
 [topcoder] Arena for Single Round Match contests. Lightweight html/css/js interface built on angular and bootstrap. Single-page, responsive design approach.
